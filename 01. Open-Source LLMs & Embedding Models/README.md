@@ -18,7 +18,7 @@ Select the `hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4 ` model repositor
 
 Select the following settings for your `Advanced Configuration`.
 
-![image](https://i.imgur.com/c0HQ7g1.png)
+![image](https://i.imgur.com/PXxz9JE.png)
 
 Create a `Protected` endpoint.
 
