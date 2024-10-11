@@ -28,17 +28,4 @@ If you were successful, you should see the following screen:
 
 ![image](https://i.imgur.com/IBYG3wm.png)
 
-#### Embedding Model Endpoint
-We'll be using `Snowflake/snowflake-arctic-embed-m` for our embedding model today.
-
-The process is the same as the LLM - but we'll make a few specific tweaks:
-
-Let's make sure our set-up reflects the following screenshots:
-
-![image](https://i.imgur.com/IHh8FnC.png)
-
-After which, make sure the advanced configuration is set like so:
-
-![image](https://i.imgur.com/bbcrhUj.png)
-
 > #### NOTE: PLEASE SHUTDOWN YOUR INSTANCES WHEN YOU HAVE COMPLETED THE WORKSHOP TO PREVENT UNESSECARY CHARGES.
